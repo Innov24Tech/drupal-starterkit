@@ -7,6 +7,7 @@ dependencies:
   module:
     - comment
     - contact
+    - file
     - filter
     - fontawesome
     - google_analytics
@@ -26,6 +27,7 @@ permissions:
   - 'access fontawesome additional settings'
   - 'access shortcuts'
   - 'access site-wide contact form'
+  - 'delete own files'
   - 'opt-in or out of google analytics tracking'
   - 'post comments'
   - 'search content'

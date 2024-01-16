@@ -64,11 +64,7 @@
             "drupal/contrib-module1": "-p1",
             "drupal/contrib-module2": "-p1"
         },
-        "patches": {
-            "drupal/core": {
-                "Ckeditor height": "https://www.drupal.org/files/issues/2023-05-08/3241295-d10.0.9-108.patch"
-            }
-        },
+        "patches": {},
         "installer-paths": {
             "core": [
                 "type:drupal-core"
